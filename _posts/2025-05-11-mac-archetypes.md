@@ -87,7 +87,7 @@ For our recruitment analysis, we looked at five incoming recruits joining the te
 
 ## Limitations and Future Studies
 	
-In the data gathering portion of the shot type analysis, we found that there were some small rounding issues and that resulted in there being a couple of instances where the shot type rates for a team in a particular season could be slightly inflated, but we did not find it to be significant enough to change the conclusions we were able to draw from the data and analysis. 
+In terms of limitations of this project, the only main thing is that the cluster analysis only explained around half of the variance of the cluster. Though this is certainly not a bad figure, a more complete understanding from a team experienced in cluster analysis could be beneficial in providing a more accurate cluster analysis. In the data gathering portion of the shot type analysis, we also found that there were some small rounding issues and that resulted in there being a couple of instances where the shot type rates for a team in a particular season could be slightly inflated, but we did not find it to be significant enough to change the conclusions we were able to draw from the data and analysis. One thing to potentially look into moving forward is why exactly the number of Off-Ball Shooting Guards has gone up when there has been no meaningful shift in the three-point shot rate in the MAC in general. It could also be potentially interesting to explore more regression modeling avenues, like predicting those key statistics based on how many of each archetype the team is made up of, therefore allowing coaches to see what types of players they might need to finalize their rosters
 
 
 
