@@ -4,7 +4,7 @@ title: Miami University Basketball Lineup Optimization
 ---
 Trent Irwin, Braxton Flaker, Oliver Stern, Nick Berry, Will Stansifer, Lauren Skelly, Eoin Young, Alex Ball
 
-[View repository](https://github.com/lrskelly/miami-basketball)) on GitHub
+[View repository](https://github.com/lrskelly/miami-basketball) on GitHub
 
 ## Executive Summary
 
