@@ -4,6 +4,8 @@ title: Miami University Basketball Lineup Optimization
 ---
 Trent Irwin, Braxton Flaker, Oliver Stern, Nick Berry, Will Stansifer, Lauren Skelly, Eoin Young, Alex Ball
 
+[View repository](https://github.com/lrskelly/miami-basketball)) on GitHub
+
 ## Executive Summary
 
   This project provides strategic insight into optimal player lineup configurations for the Miami University Men’s Basketball team using player archetype analysis. By clustering MAC player statistics from the 2014–15 season onward, five archetypes were identified: Bench 3&D Guard, Interior Role Big, Versatile Scoring Forward, Off-Ball Shooting Guard, and Two-Way Lead Guard. These archetypes were used to assess historical lineup trends and their relationships with team performance. The results highlight patterns in archetype usage and suggest targeted strategies for both recruiting and lineup optimization. 
